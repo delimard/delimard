@@ -3,9 +3,9 @@
 More about me on my [Website](https://www.delimard.fr.com)
 
 If you want, you can offer me [a little Coffee](https://www.buymeacoffee.com/delimard)
-## I'm a hobbist dev !
+## I'm a hobbiest dev !
 
-- 📱🖥 you can check my iOS app on the [AppStore](https://apps.apple.com/us/developer/thibault-delimard/id1597795805)
+- 📱🖥 you can check all my iOS and MacOS app on the [AppStore](https://apps.apple.com/us/developer/thibault-delimard/id1597795805)
 - E-commerce platofrm with [Thelia](https://www.thelia.net)
 
 ### Stay Connected with me:
