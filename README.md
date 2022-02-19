@@ -13,7 +13,7 @@ If you want, you can offer me [a little Coffee](https://www.buymeacoffee.com/del
 <img width="18px" src="https://cdn.cdnlogo.com/logos/s/81/safari.svg"> [www.delimard.fr](https://www.delimard.fr)
 
 &nbsp;&nbsp;
-<img  width="14px" src="https://cdn.cdnlogo.com/logos/i/21/instagram-glyph.svg"> [Follow me on Instagram](https://instagram.com/delimardsowftare)
+<img  width="14px" src="https://cdn.cdnlogo.com/logos/i/21/instagram-glyph.svg"> [Follow me on Instagram](https://instagram.com/delimardsoftware)
 
 
 
